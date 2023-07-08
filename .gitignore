@@ -134,3 +134,9 @@ MyProject/Saved/Config/WindowsEditor/Editor.ini
 MyProject/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
 MyProject/Saved/Logs/MyProject.log
 MyProject/Saved/SourceControl/UncontrolledChangelists.json
+*.log
+MyProject/Saved/Logs/MyProject.log
+MyProject/Saved/Config/WindowsEditor/SourceControlSettings.ini
+*.ini
+MyProject/Saved/Config/WindowsEditor/SourceControlSettings.ini
+MyProject/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
