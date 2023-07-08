@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Unreal/DungeonStreamer/MyProject/Content/Controller/BP_PlayerController.uasset",
+				"D:/Unreal/DungeonStreamer/MyProject/Content/Controller/BP_Controller.uasset",
+				"D:/Unreal/DungeonStreamer/MyProject/Content/Art/Room_5m/room_5m_floor_10m_plain.uasset",
+				"D:/Unreal/DungeonStreamer/MyProject/Content/Controller/Clickable.uasset",
+				"D:/Unreal/DungeonStreamer/MyProject/Content/Controller/ClickInterface.uasset",
 				"C:/Users/danie/Desktop/DungeonStreamer/DungeonStreamer/MyProject/Content/Modules/Base/BP_Module_Base.uasset",
 				"C:/Users/danie/Desktop/DungeonStreamer/DungeonStreamer/MyProject/Content/Modules/BP_Module_Base.uasset",
 				"C:/Users/danie/Desktop/DungeonStreamer/DungeonStreamer/MyProject/Content/Modules/Base/Curve_SubStreamJump.uasset",
